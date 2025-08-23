@@ -42,7 +42,7 @@ If you'd like to use your own data, check out the [Ultralytics training guide](h
 Example model path:
 
 ```
-/home/pi/Desktop/crickets/train2/weights/best.pt
+/home/pi/Desktop/crickets/train5/weights/best.pt
 ```
 
 ---
