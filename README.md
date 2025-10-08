@@ -35,7 +35,7 @@ pip install ultralytics opencv-python
 The model used in this project was trained with Ultralytics YOLOv8 nano on a custom dataset of crickets.  
 You can explore and download the dataset from Roboflow:
 
-🔗 **[Cricket Detection Dataset on Roboflow](https://universe.roboflow.com/cricket-sex-classification/auto-cricket)**
+🔗 **[Cricket Detection Dataset on Roboflow](https://universe.roboflow.com/cricket-sex-classification/auto_crickets-cf8wj)**
 
 If you'd like to use your own data, check out the [Ultralytics training guide](https://docs.ultralytics.com).
 
